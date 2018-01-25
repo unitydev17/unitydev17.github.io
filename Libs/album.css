@@ -44,6 +44,7 @@ body {
 }
 
 .card-text {
+	padding-bottom: 1em;
   text-align: center;
   font-size:15pt;
 }
