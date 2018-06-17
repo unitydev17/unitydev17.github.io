@@ -58,3 +58,12 @@ footer p {
   margin-bottom: .25rem;
 }
 
+.zoom {
+    padding: 30px;
+    transition: transform .8s; /* Animation */
+}
+
+.zoom:hover {
+    transform: scale(1.15);
+}
+
