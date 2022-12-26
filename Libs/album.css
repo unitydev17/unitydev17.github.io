@@ -10,7 +10,8 @@ body {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 0;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: rgba(115, 177, 146, 0.533);
 }
 
 .jumbotron p:last-child {
@@ -65,5 +66,11 @@ footer p {
 
 .zoom:hover {
     transform: scale(1.15);
+}
+
+.list-text {
+	padding-bottom: 1em;
+  text-align: left;
+  font-size:15pt;
 }
 
